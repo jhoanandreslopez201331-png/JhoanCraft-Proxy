@@ -1,0 +1,12 @@
+{
+  "name": "jhoancraft-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Eaglercraft para JhoanCraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eaglercraft-server": "latest"
+  }
+}
